@@ -1,17 +1,19 @@
-# stateful_lab_galon
 
-A new Flutter project.
+# Stateful Lab 3: Mini Shopping Cart
 
-## Getting Started
+**Name:** Eunice Ann S. Galon
 
-This project is a starting point for a Flutter application.
+**Activity Title:** Laboratory Activity No. 3: Building a Mini Shopping Cart with StatefulWidget
 
-A few resources to get you started if this is your first Flutter project:
+## App Screenshot
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+![Mini Shopping Cart App](screenshots/app.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Displays shopping cart items.
+- Increases and decreases item quantities.
+- Marks items as checked.
+- Calculates the total price automatically.
+- Adds new items with name and price validation.
+- Clears checked items and updates the total.
